@@ -44,7 +44,11 @@ It is part of a Data Science assignment for the Junior Data Scientist role.
 - `csv_files/` – datasets (original + merged)  
 - `outputs/` – charts and visualizations  
 - `ds_report.pdf` – summary report  
-- `README.md` – this file  
+- `README.md` – this file
+
+## 🔗 Google Colab Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aL7AcCldTPMdq1HiW6NVDykdCykLnrl0?usp=sharing)
+
 
 ### 📂 Datasets
 - `historical_data_sample.csv` → Contains 5,000 rows (uploaded here due to GitHub’s 25MB file size limit).  
