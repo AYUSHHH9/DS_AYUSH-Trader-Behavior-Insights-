@@ -46,7 +46,7 @@ It is part of a Data Science assignment for the Junior Data Scientist role.
 - `ds_report.pdf` – summary report  
 - `README.md` – this file
 
-### 🔗 Google Colab Notebook
+## 🔗 Google Colab Notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aL7AcCldTPMdq1HiW6NVDykdCykLnrl0?usp=sharing)
 
 
