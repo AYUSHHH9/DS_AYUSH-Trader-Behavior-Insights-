@@ -6,18 +6,18 @@ This project analyzes the relationship between **trader performance** and **Bitc
 It is part of a Data Science assignment for the Junior Data Scientist role.
 
 ## 📂 Project Structure
-ds_ayush/
-├── notebook_1.ipynb           # Main Colab notebook
-├── csv_files/                 # Original + processed CSVs
-│   ├── historical_data.csv
-│   ├── fear_greed_index.csv
-│   └── merged_trades_sentiment.csv
-├── outputs/                   # Plots and visual outputs
-│   ├── avg_pnl_by_sentiment.png
-│   ├── winrate_by_sentiment.png
-│   └── trades_by_sentiment.png
-├── ds_report.pdf              # Summarized report
-└── README.md                  # Instructions & summary
+📂 ds_ayush/  
+ ┣ 📓 notebook_1.ipynb   # Main Colab notebook  
+ ┣ 📂 csv_files/         # Original + processed CSVs  
+ ┃ ┣ 📄 historical_data.csv  
+ ┃ ┣ 📄 fear_greed_index.csv  
+ ┃ ┗ 📄 merged_trades_sentiment.csv  
+ ┣ 📂 outputs/           # Plots and visual outputs  
+ ┃ ┣ 📊 avg_pnl_by_sentiment.png  
+ ┃ ┣ 📊 winrate_by_sentiment.png  
+ ┃ ┗ 📊 trades_by_sentiment.png  
+ ┣ 📄 ds_report.pdf      # Summarized report  
+ ┗ 📄 README.md          # Instructions & summary 
 
 ## 🚀 Steps Performed
 1. Data loading (historical trades + sentiment datasets)  
