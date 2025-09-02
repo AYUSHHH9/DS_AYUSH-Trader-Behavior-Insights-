@@ -2,8 +2,8 @@
 # Trader Behavior Insights – DS_AYUSH
 
 ## 📌 Overview
-This project analyzes the relationship between **trader performance** and **Bitcoin market sentiment** (Fear/Greed Index).  
-It is part of a Data Science assignment for the Junior Data Scientist role.
+This project analyzes the relationship between **trader performance** and **Bitcoin market sentiment** (Fear/Greed Index).
+This self-driven investigation explores whether these sentiment extremes can predict market movements and be leveraged as a signal for profitable trading opportunities.
 
 ## 📂 Project Structure
 📂 ds_ayush/  
